@@ -1,4 +1,4 @@
-# numit
+devstool# numit
 
 The goal of numit is to ...
 
