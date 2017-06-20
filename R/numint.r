@@ -17,6 +17,7 @@ splitN <- function(N, nchunks) {
 #'
 #' @details \code{code}; \emph{emph}; \pkg{graph}; \CRANpkg{graph}
 #' @export
+#'
 num_int <- function(fn, ..., a, b, N = 100, ncores = 1, cl = NULL) {
 
   # Getting the call
