@@ -8,4 +8,4 @@ test_that("First test",{
 expect_s3_class(ans0, "numit")
 expect_silence(plot(ans0))
 
-
+https://travis-ci.org/pinhuang/Crystal.svg?branch=master)](https://travis-ci.org/pinhuang/Crystal
